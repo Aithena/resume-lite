@@ -34,4 +34,4 @@ function _copydir (f, t) {
   }
 }
 
-copydir('./docs', './dist')
+copydir('./dist', './docs')

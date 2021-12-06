@@ -1,10 +1,10 @@
 const fs = require('fs')
-const path = require('path')
+const fileName = 'README.md'
 
-fs.copyFile('./README.md','./docs/README.md',(err)=>{
-	if(err){
+fs.copyFile(`./${fileName}`, `./docs/${fileName}`, (err)=>{
+	if (err) {
 		console.log(err)
-	}else{
+	} else {
 		console.log('copy file succeed')
 	}
 })
