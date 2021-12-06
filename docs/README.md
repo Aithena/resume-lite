@@ -6,7 +6,6 @@
  - 手机：175-0736-0004
  - Email：liqingyun.chn@gmail.com
  - QQ/微信号：charelee
- - 线上简历：https://aithena.github.io/resume-lite/
  - 期望职位：Web前端开发工程师
  - 期望城市：长沙
 
@@ -53,6 +52,10 @@
 
 - 其他项目
 
+## 北京八桥科技开发有限公司 （ 2010年6月 ~ 2012年1月 ）
+
+- 项目一
+
 
 
 # 开源项目和作品
@@ -71,19 +74,13 @@
 
 # 技能清单
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-- 熟悉Web开发基础 HTML、CSS、JavaScript
-- 熟悉Web开发框架 Vue.js，能够熟练的进行简单的单页应用开发
-- 对 HTTP 协议有一定的了解
-- 掌握基本的 ES6 语法，能够进行日常的应用开发
-- 了解基本的数据结构和算法
+- Web基础：Html/HTML5/Css/JavaScript/Es6
+- Web进阶：NodeJs/webSocket
+- 前端框架：VueJs/ElementJs/Vant
+- 前端工具：less/scss
+- 数据库相关：mongoDB
+- 版本管理、文档和自动化部署工具：Git/npm/Swagger
+- 云和开放平台：微信小程序/微信公众号
 
 
 ## 参考技能关键字
@@ -101,3 +98,5 @@
 # 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+https://aithena.github.io/resume-lite/
