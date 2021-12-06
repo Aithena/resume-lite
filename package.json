@@ -2,7 +2,9 @@
   "name": "resume-lite",
   "version": "0.0.1",
   "description": "My resume lite.",
-  "dependencies": {},
+  "dependencies": {
+    "node-schedule": "^2.1.0"
+  },
   "scripts": {
     "docs": "node copy-file"
   }
