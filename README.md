@@ -18,7 +18,7 @@
 
 ## 湖南竞网智赢网络技术有限公司 （ 2013年9月 ~ 至今 ）
 
-- 蜂巢CMS（Saas）
+### 蜂巢CMS（Saas）
 
 平台端：http://saasplatform.jingwxcx.com/
 
@@ -33,20 +33,20 @@
 
 
 
-- 竞网模板平台
+### 竞网模板平台
 
 http://c.hnjing.com/
 
 
 
-- 竞网产品平台
+### 竞网产品平台
 
 http://z.hnjing.com/
 
 
 
 
-- 其他项目
+### 其他项目
 
 湖南领度信息技术有限公司：http://www.linkdu.cn/
 
@@ -78,8 +78,6 @@ Insprire Acupuncture：https://www.chchacu.com/
 ## 北京缘路科技有限公司 （ 2012年7月 ~ 2013年3月 ）
 
 官网：http://517huwai.com/ （已停止维护）
-
-- 517户外网 （http://517huwai.com/）
 
 完成静态页面切板，配合程序员调试接口
 
