@@ -36,14 +36,17 @@ img {
   border: 0px;
 }
 h1 {
-  margin: 1em 0;
+  margin: 1em -1rem;
+  padding: 0 1rem;
   font-size: 1.5rem;
+  line-height: 2;
   color: #000000;
+  background: #f0f0f0;
 }
 @media (max-width: 1024px) {
   h1 {
-    margin: 0.3rem 0;
-    font-size: 1.3rem;
+    margin: 0.2rem -1rem;
+    font-size: 1.2rem;
   }
 }
 h2 {
@@ -53,8 +56,8 @@ h2 {
 }
 @media (max-width: 1024px) {
   h2 {
-    margin: 0.2rem 0;
-    font-size: 1.2rem;
+    margin: 0.1rem 0;
+    font-size: 1.1rem;
   }
 }
 h3 {
@@ -129,6 +132,7 @@ table {
   position: relative;
   background: #1e80ff;
   padding: 2px 1rem;
+  margin: 0 0 -1rem;
 }
 #content {
   padding: 1rem;

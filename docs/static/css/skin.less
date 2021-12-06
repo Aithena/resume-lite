@@ -46,12 +46,15 @@ img {
 }
 
 h1 {
-  margin: 1em 0;
+  margin: 1em -1rem;
+  padding: 0 1rem;
   font-size: 1.5rem;
+  line-height: 2;
   color: #000000;
+  background: #f0f0f0;
   @media (max-width: @small) {
-    margin: .3rem 0;
-    font-size: 1.3rem;
+    margin: .2rem -1rem;
+    font-size: 1.2rem;
   }
 }
 
@@ -60,8 +63,8 @@ h2 {
   font-size: 1.4rem;
   color: #000000;
   @media (max-width: @small) {
-    margin: .2rem 0;
-    font-size: 1.2rem;
+    margin: .1rem 0;
+    font-size: 1.1rem;
   }
 }
 
@@ -139,6 +142,7 @@ table {
   position: relative;
   background: @color2;
   padding: 2px 1rem;
+  margin: 0 0 -1rem;
 }
 
 #content {
