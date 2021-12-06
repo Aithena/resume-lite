@@ -4,6 +4,6 @@
   "description": "My resume lite.",
   "dependencies": {},
   "scripts": {
-    "build": "node copy-file"
+    "docs": "node copy-file"
   }
 }
