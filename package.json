@@ -1,0 +1,9 @@
+{
+  "name": "resume-lite",
+  "version": "0.0.1",
+  "description": "My resume lite.",
+  "dependencies": {},
+  "scripts": {
+    "build": "node copyFile"
+  }
+}
