@@ -30,7 +30,7 @@
 html {
   font-size: 16px;
   @media (max-width: @small) {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
@@ -49,24 +49,40 @@ h1 {
   margin: 1em 0;
   font-size: 1.5rem;
   color: #000000;
+  @media (max-width: @small) {
+    margin: .3rem 0;
+    font-size: 1.3rem;
+  }
 }
 
 h2 {
   margin: .8em 0;
   font-size: 1.4rem;
   color: #000000;
+  @media (max-width: @small) {
+    margin: .2rem 0;
+    font-size: 1.2rem;
+  }
 }
 
 h3 {
   margin: .6em 0;
   font-size: 1.3rem;
   color: #000000;
+  @media (max-width: @small) {
+    margin: .1rem 0;
+    font-size: 1.1rem;
+  }
 }
 
 h4, h5, h6 {
   margin: .2em 0;
   font-size: 1.2rem;
-  color: #000000;
+  color: #333333;
+  @media (max-width: @small) {
+    margin: 0 0;
+    font-size: 1rem;
+  }
 }
 
 ::-webkit-scrollbar{
@@ -122,7 +138,7 @@ table {
 #header {
   position: relative;
   background: @color2;
-  padding: 1rem;
+  padding: 2px 1rem;
 }
 
 #content {
