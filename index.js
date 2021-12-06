@@ -1,7 +1,7 @@
 const schedule = require('node-schedule')
 const rule = new schedule.RecurrenceRule()
 rule.second = 10
-import copy from './copy-file'
+const copy = require('./copy-file')
 
 const j = schedule.scheduleJob (rule, function() {
   copy()
