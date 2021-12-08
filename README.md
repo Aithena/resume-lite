@@ -1,8 +1,8 @@
 # 个人信息
 
  - 李青云 / 男 / 1987
- - 本科 / 湖南大学（函授）
- - 工作年限：8年
+ - 本科 / 湖南大学
+ - 工作年限：10年
  - 手机：175-0736-0004
  - Email：liqingyun.chn@gmail.com
  - QQ/微信号：charelee
@@ -75,9 +75,11 @@ Insprire Acupuncture：https://www.chchacu.co.nz/
 Insprire Acupuncture：https://www.chchacu.com/
 
  
+ 
+
 ## 北京缘路科技有限公司 （ 2012年7月 ~ 2013年3月 ）
 
-官网：http://517huwai.com/ （已停止维护）
+官网：http://www.517huwai.com/ （已停止维护）
 
 完成静态页面切板，配合程序员调试接口
 
