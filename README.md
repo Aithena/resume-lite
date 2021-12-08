@@ -101,11 +101,7 @@ Insprire Acupuncture：https://www.chchacu.com/
 
 # 开源项目和作品
 
-- [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-- [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get)
-
+- [利用状态机解析访问日志](https://github.com/foxLabe/parseLog)
 
 
 
@@ -117,8 +113,6 @@ Insprire Acupuncture：https://www.chchacu.com/
 
 ## 演讲和讲义
 
-- 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
-- 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 
 
