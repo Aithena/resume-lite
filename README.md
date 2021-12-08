@@ -101,7 +101,11 @@ Insprire Acupuncture：https://www.chchacu.com/
 
 # 开源项目和作品
 
-- [利用状态机解析访问日志](https://github.com/foxLabe/parseLog)
+- [利用状态机解析访问日志](https://github.com/imkeys/parse-log)
+- [基于vue的720全景图片展示](https://github.com/imkeys/vue-720yun)
+- [解析swagger的json文件](https://github.com/imkeys/vue-swagger-api)
+- [网页颜色拾取器](https://github.com/imkeys/mouse-select-color)
+- [微信小程序中快速生成canvas](https://github.com/imkeys/wx-canvas)
 
 
 
